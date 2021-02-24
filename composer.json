@@ -1,0 +1,14 @@
+{
+    "name": "qfly/demo",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "虚拟机112",
+            "email": "707584896@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
